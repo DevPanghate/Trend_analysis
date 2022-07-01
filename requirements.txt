@@ -1,0 +1,6 @@
+gate_api==4.23.2
+matplotlib==3.4.3
+numpy==1.21.1
+pandas==1.2.4
+plotly==5.6.0
+argparse==1.4.0
