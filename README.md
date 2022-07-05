@@ -1,2 +1,2 @@
-# Channel_formation
-Project to detect channel formations in candlestick data 
+# Trend Analysis
+Project to perform trend analysis on past cryptocurrency data  
